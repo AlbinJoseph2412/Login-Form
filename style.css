@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css2?family=Pacifico&display=swap);
+
+body{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.container{
+    margin-left: 600px;
+    margin-top: 100px;
+    position: relative;
+    width: 350px;
+    height: 500px;
+    border-radius: 20px;
+    box-shadow: 14px 14px 20px aliceblue; 
+}
+
+.brand-title{
+    font-weight: 900px;
+    font-size: 40px;
+    color: grey;
+    letter-spacing: 1px;
+    padding: 30px;
+}
+
+.input{
+    text-align: center;
+    margin: 0px;
+}
+
+.label, input, button{
+    width: 100%;
+    border: none;
+    outline: none;
+    font-size: 20px;
+}
